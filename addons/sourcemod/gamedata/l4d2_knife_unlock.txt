@@ -1,0 +1,29 @@
+"Games"
+{
+	"left4dead2"
+	{
+		"Addresses"
+		{
+			"KnifePatch"
+			{
+				"windows"
+				{
+					"signature"	"KnifePatch_Sig"			
+				}
+				"linux"
+				{
+					"signature"	"KnifePatch_Sig"
+				}
+			}
+		}
+		"Signatures"
+		{
+			"KnifePatch_Sig"
+			{
+				"library"		"server"
+				"windows"		"\x6B\x6E\x69\x66\x65\x00"
+				"linux"			"\x6B\x6E\x69\x66\x65\x00"
+			}
+		}
+	}
+}

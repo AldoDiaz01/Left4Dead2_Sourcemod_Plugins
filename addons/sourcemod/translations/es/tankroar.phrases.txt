@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"Roar"
+	{
+		"es"	"Puedes grunir para aturdir a los supervivientes presionando ZOOM"
+	}
+}

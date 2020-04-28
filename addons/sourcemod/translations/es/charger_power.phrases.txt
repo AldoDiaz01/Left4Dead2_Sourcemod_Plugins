@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"Information"
+	{
+		"es"	"Hint"
+	}
+	"Move objects"
+	{
+		"es"	"Puedes mover objetos golpeandolos al usar la habilidad del charger"
+	}
+}

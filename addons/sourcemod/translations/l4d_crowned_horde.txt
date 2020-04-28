@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"L_WITCH_ANNOYED"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Crowned Horde] {1} has startled the witch!"
+	}
+	"L_WITCH_ANNOYED_FIRST"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Crowned Horde] {1} has startled the witch for the first time!"
+	}
+	"L_WITCH_CROWNED"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Crowned Horde] {1} has crowned the witch!"
+	}
+	"L_WITCH_KILLED"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Crowned Horde] {1} has killed the witch!"
+	}
+}
