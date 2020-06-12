@@ -1,0 +1,1298 @@
+//--------------------------------------------------------------------------------------------------------------
+// Whitaker Game Sound Text File
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// This file is auto generated do not hand edit!
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// Last Updated: 09/21/09
+//--------------------------------------------------------------------------------------------------------------
+
+//Well, hello there. Why don't you grab yourselves some of my guns and come on upstairs. I got something you can help me with.
+"Whitaker_ComeUpstairs01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairs01.wav"
+}
+
+
+//Hello there. My name's Whitaker. I own this establishment. Take anything you need and come on upstairs when you're done.
+"Whitaker_ComeUpstairs02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairs02.wav"
+}
+
+
+//There ain't much time. Grab yourselves a gun and come upstairs, I'll explain on the way.
+"Whitaker_ComeUpstairs03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairs03.wav"
+}
+
+
+//Well, now. This might just work out after all.
+"Whitaker_ComeUpstairsLongerA01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerA01.wav"
+}
+
+
+//Help yourself to the weapons. Take anything you need.
+"Whitaker_ComeUpstairsLongerA02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerA02.wav"
+}
+
+
+//I'm in a bit of a quandary, you see, and I suspect you're just the people to help me out of it.
+"Whitaker_ComeUpstairsLongerA03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerA03.wav"
+}
+
+
+//Come on upstairs when you're done.
+"Whitaker_ComeUpstairsLongerA04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerA04.wav"
+}
+
+
+//Well, now. This might just work out after all.
+"Whitaker_ComeUpstairsLongerB01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerB01.wav"
+}
+
+
+//Help yourself to MY weapons.
+"Whitaker_ComeUpstairsLongerB02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerB02.wav"
+}
+
+
+//Take anything you need. I'm in a bit of a quandary, you see, and...
+"Whitaker_ComeUpstairsLongerB03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerB03.wav"
+}
+
+
+//GET YOUR HANDS OFF MY STORE YOU SON OF A BITCH.
+"Whitaker_ComeUpstairsLongerB04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerB04.wav"
+}
+
+
+//and I suspect you're just the people to help me out of it.
+"Whitaker_ComeUpstairsLongerB05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerB05.wav"
+}
+
+
+//Come on upstairs when you're done.
+"Whitaker_ComeUpstairsLongerB06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerB06.wav"
+}
+
+
+//Hello there. Now, normally when four bloodstained looters break into my store, I would shoot them where they stand.
+"Whitaker_ComeUpstairsLongerC01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerC01.wav"
+}
+
+
+//But you happen to have caught me at an opportune time.
+"Whitaker_ComeUpstairsLongerC02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerC02.wav"
+}
+
+
+//Take what weapons you need and come on upstairs. I reckon we can come to an accordance.
+"Whitaker_ComeUpstairsLongerC03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerC03.wav"
+}
+
+
+//Hello there.
+"Whitaker_ComeUpstairsLongerD01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD01.wav"
+}
+
+
+//Now, normally when four bloodstained looters break into my store, I would shoot them where they stand.
+"Whitaker_ComeUpstairsLongerD02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD02.wav"
+}
+
+
+//But you happen to have caught me at...
+"Whitaker_ComeUpstairsLongerD03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD03.wav"
+}
+
+
+//get your hands off my store.
+"Whitaker_ComeUpstairsLongerD04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD04.wav"
+}
+
+
+//caught me at an opportune time.
+"Whitaker_ComeUpstairsLongerD05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD05.wav"
+}
+
+
+//Take what weapons you need and come on upstairs. I reckon...
+"Whitaker_ComeUpstairsLongerD06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD06.wav"
+}
+
+
+//Climb that, you green-skinned sonofabitch.
+"Whitaker_ComeUpstairsLongerD07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD07.wav"
+}
+
+
+//reckon we can come to an accordance.
+"Whitaker_ComeUpstairsLongerD08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\ComeUpstairsLongerD08.wav"
+}
+
+
+//You could try. I own a LOT of guns, son.
+"Whitaker_Conversation01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation01.wav"
+}
+
+
+//Not only will I help you get to the mall, I'll even throw in the guns you stole from me, free of charge.
+"Whitaker_Conversation02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation02.wav"
+}
+
+
+//I am a man of my word, sir. Procure my colas and I'll clear a path to the mall for you. The guns are on the house.
+"Whitaker_Conversation03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation03.wav"
+}
+
+
+//Procure my colas and my help is guaranteed, sir. Consider the guns a generous donation to the cause.
+"Whitaker_Conversation04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation04.wav"
+}
+
+
+//I am not a man to weasel out of a deal. I'd shake on it with you, but there's no way in hell I'm going back down there.
+"Whitaker_Conversation05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation05.wav"
+}
+
+
+//I been on this world sixty years, ma'am, and I've weaseled nothing from nobody. You got my word as a gentleman.
+"Whitaker_Conversation06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation06.wav"
+}
+
+
+//I'm a man of my word, ma'am. You got my word on that.
+"Whitaker_Conversation07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation07.wav"
+}
+
+
+//On my word as a gentleman I will do no screwing, sir. I'd come down there and shake on it, but I already welded the door shut.
+"Whitaker_Conversation08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation08.wav"
+}
+
+
+//Cola, ma'am. For my cola and nuts.
+"Whitaker_Conversation09"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation09.wav"
+}
+
+
+//And how fortuitous that we do, else which you would have nothing to bargain with, and no way to the mall.
+"Whitaker_Conversation10"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation10.wav"
+}
+
+
+//No, sir. Diet don't get the right flavor. I better not see no cherry neither. It's straight cola or no deal.
+"Whitaker_Conversation11"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation11.wav"
+}
+
+
+//If they can be of service to you in your endeavor, please keep them.
+"Whitaker_Conversation12"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation12.wav"
+}
+
+
+//Only your promise that you'll put them to good use.
+"Whitaker_Conversation13"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation13.wav"
+}
+
+
+//Only your promise that you'll put them to good use. And, as I mentioned, the colas.
+"Whitaker_Conversation14"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation14.wav"
+}
+
+
+//No thank you, ma'am. I have five restaurant-sized boxes of them up here.
+"Whitaker_Conversation15"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation15.wav"
+}
+
+
+//Those ARE my terms, sir.
+"Whitaker_Conversation16"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation16.wav"
+}
+
+
+//Then I'm willing to let you keep it, son. Hell, I'll even cover you once you get outside.
+"Whitaker_Conversation17"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation17.wav"
+}
+
+
+//Then it's all yours, girl. Hell, I'll even cover you once you get outside.
+"Whitaker_Conversation18"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation18.wav"
+}
+
+
+//[chuckles] I like a woman who appreciates the subtle perfection of a well made firearm.
+"Whitaker_Conversation19"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Conversation19.wav"
+}
+
+
+//There's the alarm! Now go!
+"Whitaker_DefendChatter01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter01.wav"
+}
+
+
+//That's the alarm! Move, now, move!
+"Whitaker_DefendChatter02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter02.wav"
+}
+
+
+//There's the alarm! GO! I'll cover you!
+"Whitaker_DefendChatter03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter03.wav"
+}
+
+
+//I'll cover you! Go get what I need!
+"Whitaker_DefendChatter04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter04.wav"
+}
+
+
+//Come on now, move! I'll help where I can!
+"Whitaker_DefendChatter05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter05.wav"
+}
+
+
+//Back, you creatures!
+"Whitaker_DefendChatter06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter06.wav"
+}
+
+
+//I'll cover you! Go!
+"Whitaker_DefendChatter07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter07.wav"
+}
+
+
+//Remember the cola! Leave a man behind if you must, but get the cola!
+"Whitaker_DefendChatter08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter08.wav"
+}
+
+
+//Sacrifice yourselves if you have to! The cola is that important!
+"Whitaker_DefendChatter09"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter09.wav"
+}
+
+
+//Leave the girl behind, just get the cola!
+"Whitaker_DefendChatter10"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter10.wav"
+}
+
+
+//Leave the little fella, just get the cola!
+"Whitaker_DefendChatter11"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter11.wav"
+}
+
+
+//Leave white suit behind, just get the cola!
+"Whitaker_DefendChatter12"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter12.wav"
+}
+
+
+//Forget the fat man, just get the cola!
+"Whitaker_DefendChatter13"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter13.wav"
+}
+
+
+//Here they come!
+"Whitaker_DefendChatter14"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter14.wav"
+}
+
+
+//Awww, hell. Here they come. It was nice knowin' you.
+"Whitaker_DefendChatter15"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter15.wav"
+}
+
+
+//Awww, hell. Here they come. It was nice knowin' you.
+"Whitaker_DefendChatter16"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter16.wav"
+}
+
+
+//Damn, that's a lot of zombies. If they kill you, don't worry! I don't need the cola that bad!
+"Whitaker_DefendChatter17"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter17.wav"
+}
+
+
+//Back, ya sons of bitches! Let 'em through!
+"Whitaker_DefendChatter18"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter18.wav"
+}
+
+
+//Ohhh, hell. I regret this agreement already. What a waste of guns.
+"Whitaker_DefendChatter19"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\DefendChatter19.wav"
+}
+
+
+//Put the cola in the slot.
+"Whitaker_MissionCompleted01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted01.wav"
+}
+
+
+//Put the cola in the slot.
+"Whitaker_MissionCompleted02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted02.wav"
+}
+
+
+//You got the cola. Put it in the slot.
+"Whitaker_MissionCompleted03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted03.wav"
+}
+
+
+//There's my cola. Quick, put it in the slot.
+"Whitaker_MissionCompleted04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted04.wav"
+}
+
+
+//Yeah, put it in the damn slot.
+"Whitaker_MissionCompleted05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted05.wav"
+}
+
+
+//Thank you kindly. And to prove I'm a man of my word...
+"Whitaker_MissionCompleted06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted06.wav"
+}
+
+
+//Thank you for that! Now, turn around. Y'all ever see a tanker explode?
+"Whitaker_MissionCompleted07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted07.wav"
+}
+
+
+//Just a six-pack? I'll go through that in a day! Ahh, hell. A deal's a deal. Here y'are...
+"Whitaker_MissionCompleted08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted08.wav"
+}
+
+
+//I'll take you at your word that ain't diet. Cover your ears, this might get loud...
+"Whitaker_MissionCompleted09"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted09.wav"
+}
+
+
+//Thank you, generous strangers! Let me get rid of that barricade for you.
+"Whitaker_MissionCompleted10"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted10.wav"
+}
+
+
+//Much obliged. Now go screw yourselves, I ain't helpin'. [laughs] I just wanted to see the looks on your faces. Here you go.
+"Whitaker_MissionCompleted11"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted11.wav"
+}
+
+
+//Much obliged. Now go screw yourselves, I ain't helpin'. [laughs] I just wanted to see the looks on your faces. Here you go.
+"Whitaker_MissionCompleted12"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted12.wav"
+}
+
+
+//Hey, put the cola in the slot.
+"Whitaker_MissionCompleted13"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted13.wav"
+}
+
+
+//Put the cola in the slot, will ya?
+"Whitaker_MissionCompleted14"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted14.wav"
+}
+
+
+//Okay, that's my cola. Yes, yes. Put it in the slot!
+"Whitaker_MissionCompleted15"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted15.wav"
+}
+
+
+//Good luck now!
+"Whitaker_MissionCompleted16"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted16.wav"
+}
+
+
+//Good luck now!
+"Whitaker_MissionCompleted17"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted17.wav"
+}
+
+
+//Best of luck! Take care of those guns!
+"Whitaker_MissionCompleted18"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted18.wav"
+}
+
+
+//Good luck to you.
+"Whitaker_MissionCompleted19"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted19.wav"
+}
+
+
+//Good luck to you, gang.
+"Whitaker_MissionCompleted20"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted20.wav"
+}
+
+
+//God watch over you.
+"Whitaker_MissionCompleted21"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted21.wav"
+}
+
+
+//Good luck gettin' to that mall.
+"Whitaker_MissionCompleted22"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted22.wav"
+}
+
+
+//Good luck gettin' to that mall.
+"Whitaker_MissionCompleted23"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\MissionCompleted23.wav"
+}
+
+
+//I didn't realize you'd need this much preparation. Can I bring y'all a pillow and blankets while you sleep on it?
+"Whitaker_Nags01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags01.wav"
+}
+
+
+//You folks best hurry before I change my mind.
+"Whitaker_Nags02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags02.wav"
+}
+
+
+//Y'all don't get moving, I might just rescind my generous offer. I got a hell of a view up here to watch y'all die.
+"Whitaker_Nags03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags03.wav"
+}
+
+
+//Perhaps I should have mentioned this bein' a limited time offer.
+"Whitaker_Nags04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags04.wav"
+}
+
+
+//You folks wanna get a move on?
+"Whitaker_Nags05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags05.wav"
+}
+
+
+//I'm getting mighty thirsty up here...
+"Whitaker_Nags06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags06.wav"
+}
+
+
+//Any time now...
+"Whitaker_Nags07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags07.wav"
+}
+
+
+//Throat... so dry... can't think straight... must... rescind offer... to these lazy people...
+"Whitaker_Nags08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\Nags08.wav"
+}
+
+
+//My name's Whitaker. I own this gun shop.
+"Whitaker_WayBlocked01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlocked01.wav"
+}
+
+
+//I'm guessing you four'd be heading to the mall for rescue. I also know the road is blocked. But I can clear it for you, in exchange for you running over to the store next door and picking me up some colas.
+"Whitaker_WayBlocked02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlocked02.wav"
+}
+
+
+//I'm in need of some colas. You four run over there and procure some for me, and I'll clear the roadblock to the mall. Because I'm that's where you're headed, and you ain't getting there without my help.
+"Whitaker_WayBlocked03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlocked03.wav"
+}
+
+
+//I'm guessing you four'd be heading to the mall for rescue.
+"Whitaker_WayBlockedLongerA01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerA01.wav"
+}
+
+
+//And I further guess you won't get there, as the road is blocked.
+"Whitaker_WayBlockedLongerA02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerA02.wav"
+}
+
+
+//I know because I watched CEDA block it. [laughs]
+"Whitaker_WayBlockedLongerA03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerA03.wav"
+}
+
+
+//So here's what I propose.
+"Whitaker_WayBlockedLongerA04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerA04.wav"
+}
+
+
+//I'm guessing you four'd be heading to the evacuation center in the mall.
+"Whitaker_WayBlockedLongerB01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerB01.wav"
+}
+
+
+//I also guess you're gonna have a hell of time doing it, seeing as how those government fools blockaded the road getting there.
+"Whitaker_WayBlockedLongerB02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerB02.wav"
+}
+
+
+//So here's what I propose.
+"Whitaker_WayBlockedLongerB03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerB03.wav"
+}
+
+
+//I've barricaded myself on the roof, with provisions and guns enough to and kill every zombie in the city five times over, and eat well while I'm doing it.
+"Whitaker_WayBlockedLongerC01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerC01.wav"
+}
+
+
+//But in my haste I forgot to pack cola.
+"Whitaker_WayBlockedLongerC02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerC02.wav"
+}
+
+
+//Cola and nuts is a weakness of mine-though I do not love it so much that I'd be fool enough to die in the attempt to procure it.
+"Whitaker_WayBlockedLongerD01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerD01.wav"
+}
+
+
+//I've barricaded myself on the roof with ample provisions.
+"Whitaker_WayBlockedLongerE01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerE01.wav"
+}
+
+
+//But in my haste I forgot cola.
+"Whitaker_WayBlockedLongerE02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerE02.wav"
+}
+
+
+//So here is my proposition: If you go find me some cola at yonder food store, I'll clear a path to the mall for you.
+"Whitaker_WayBlockedLongerF01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerF01.wav"
+}
+
+
+//So here is my proposition: If you go find me some cola at yonder food store, I'll clear that CEDA blockade for you.
+"Whitaker_WayBlockedLongerG01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerG01.wav"
+}
+
+
+//If you get me my cola, I'll get you to the mall.
+"Whitaker_WayBlockedLongerH01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerH01.wav"
+}
+
+
+//I'd be able to help you get to the mall, if I wasn't so parched from thirst.
+"Whitaker_WayBlockedLongerI01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerI01.wav"
+}
+
+
+//Now, I have the nuts. I just need cola.
+"Whitaker_WayBlockedLongerJ01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerJ01.wav"
+}
+
+
+//So the matter on the table is: do you four have the nuts to get me this cola?
+"Whitaker_WayBlockedLongerJ02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerJ02.wav"
+}
+
+
+//I'll be blunt.
+"Whitaker_WayBlockedLongerK01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerK01.wav"
+}
+
+
+//I need cola and I won't let you through the barricade until I get it.
+"Whitaker_WayBlockedLongerK02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerK02.wav"
+}
+
+
+//Now go.
+"Whitaker_WayBlockedLongerK03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"npc\Whitaker\WayBlockedLongerK03.wav"
+}
+

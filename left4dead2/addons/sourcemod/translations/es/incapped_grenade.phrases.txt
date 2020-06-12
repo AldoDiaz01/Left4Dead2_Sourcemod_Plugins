@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"Information"
+	{
+		"es"	"Hint"
+	}
+	"Throw a grenade"
+	{
+		"es"	"Puedes arrojar un explosivo mienteas estas incapaciado,\npresiona USAR para cambiar de arma"
+	}
+}
