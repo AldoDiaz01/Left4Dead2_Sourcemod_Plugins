@@ -1,7 +1,0 @@
-"Phrases"
-{
-	"Crawl"
-	{
-		"es"		"Presiona ADELANTE para arrastrarte mientras estás incapacitado"
-	}
-}

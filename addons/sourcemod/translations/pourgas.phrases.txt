@@ -1,7 +1,0 @@
-"Phrases"
-{
-	"PourGas_Pickup"
-	{
-		"en"			"Pour gas onto the ground by pressing your RELOAD or ZOOM."
-	}
-}

@@ -1,7 +1,0 @@
-"Phrases"
-{
-	"PourGas_Pickup"
-	{
-		"es"			"Arroja gasolina en el suelo presionando RECARGAR o ZOOM."
-	}
-}

@@ -1,7 +1,0 @@
-"Phrases"
-{
-	"Roar"
-	{
-		"en"	"You can roar to knockback survivors by pressing the ZOOM button"
-	}
-}
